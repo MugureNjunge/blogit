@@ -11,8 +11,8 @@ class Config:
     MAIL_USE_TLS=True
     MAIL_USERNAME = os.environ.get('MAIL_USERNAME')
     MAIL_PASSWORD = os.environ.get('MAIL_PASSWORD')
-    # SUBJECT_PREFIX = 'Minute Pitcher!'
-    # SENDER_EMAIL = 'minutepitcher@gmail.com'
+    SUBJECT_PREFIX = 'Blog it!'
+    SENDER_EMAIL = 'maureennjunge22@gmail.com'
 
 
     @staticmethod
