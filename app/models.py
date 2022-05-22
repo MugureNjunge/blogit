@@ -29,8 +29,8 @@ class Post(db.Model):
     content = db.Column(db.Text, nullable=False )
     user_id = db.Column(db.Integer, db.ForeignKey('user.id'), nullable=False)
     comment = db.relationship('Comment', backref='blog', lazy='dynamic')
-    likes =  db.relationship('Like',backref='blog',lazy='dynamic')
-    dislikes =  db.relationship('Dislike',backref='blog',lazy='dynamic')
+    # likes =  db.relationship('Like',backref='blog',lazy='dynamic')
+    # dislikes =  db.relationship('Dislike',backref='blog',lazy='dynamic')
 
 
     def __repr__(self):
