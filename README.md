@@ -18,15 +18,15 @@ Then open your code editor i.e: code .
 
 Remember to download all the requirements stated in the requiremen.txt, open your terminal and the app in your code editor and finally run the app.
 
-Known Bugs
+**Known Bugs**
 
 There are no known bugs.
 
-User Functionality
+**User Functionality**
 
 Create an account then log in. User log in if account already exists. Subscribe to our newsletter and get notified once a new blog is posted.Create, update or delete a blog. See blogs posted by other users and add comments.Delete comments on user's profile from other users.
 
-Process
+**Process**
 
 1)Load the page ,user can either signup or login.
 
@@ -36,14 +36,19 @@ Process
 
 4)Subscribe to newsletter by adding username and email address.
 
-Technologies Used
+**Technologies Used**
 
-Python3.8.10 Flask2.1.2 Bootstrap HTML
+Python3.8.10 
+Flask2.1.2 
+Bootstrap 
+HTML
 
-Contact:
+**Contact:**
 
 Incase of any question or contributions, you can contact me through: maureen.njunge@student.moringaschool.com
 
-MIT License
+**License**
 
-Copyright (c)2022 WhatSayI. All rights reserved.
+MIT Licence
+
+**Copyright (c)2022 Blogit. All rights reserved.**
