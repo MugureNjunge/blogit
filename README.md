@@ -10,7 +10,7 @@ The user gets a welcome email once they sign up to our newsletter.
 
 **Setup Procedure**
 
-In your terminal: git clone https://github.com/MugureNjunge/WhatSayI.git
+In your terminal: git clone https://github.com/MugureNjunge/blogit
 
 Once complete, run this on your terminal: cd pitchin
 
